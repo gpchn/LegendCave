@@ -1,3 +1,5 @@
+(简体中文)[README.md] | English (United States)
+
 # Legend Cave
 
 !(game logo)[.\assets\image\logo.png]
