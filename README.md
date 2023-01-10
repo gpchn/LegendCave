@@ -2,7 +2,7 @@
 
 # Legend Cave
 
-![游戏 logo](.\assets\image\logo.png)
+![游戏 logo](./assets/image/logo.png)
 
 ## 项目介绍
 
@@ -14,19 +14,19 @@ amd32 和 amd64 版本请运行文件夹内 LegendCave.exe 文件
 
 embed_amd32 和 embed_amd64 版本请运行文件夹内 click_to_run.bat 文件
 
-![click_to_run.bat](.\assets\image\click_to_run.bat.png)
+![click_to_run.bat](./assets/image/click_to_run.bat.png)
 
 ## 关于我们
 
 **Legend 工作室** - 我们来自同一个班级，性格各异，但十分合拍。在一年多的相处中，我们建立了深厚的友谊和良好的默契。
 
-![Legend 工作室 logo](.\assets\image\legend_studio_logo.png)
+![Legend 工作室 logo](./assets/image/legend_studio_logo.png)
 
 #### 贡献者
 
 - [gpchn](https://github.com/gpchn/) 代码编写
   
-  ![头像](.\assets\image\gpchn.jpg)
+  ![头像](./assets/image/gpchn.jpg)
 
 #### 联系方式
 

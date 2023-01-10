@@ -2,7 +2,7 @@
 
 # Legend Cave
 
-![game logo](.\assets\image\logo.png)
+![game logo](./assets/image/logo.png)
 
 ## Introduction
 
@@ -13,19 +13,19 @@
 For amd32 and amd64 versions, please run the LegendCave.exe file in the folder.
 For embed_ amd32 and embed_amd32 versions, please run the click_to_run.bat file in the folder.
 
-![click_to_run.bat](.\assets\image\click_to_run.bat.png)
+![click_to_run.bat](./assets/image/click_to_run.bat.png)
 
 ## About us
 
 **Legend Studio** - We are from the same class, with different personalities, but we are very in tune. In more than one year of getting along, we have established a deep friendship and good tacit understanding.
 
-![Legend Studio logo](.\assets\image\legend_studio_logo.png)
+![Legend Studio logo](./assets/image/legend_studio_logo.png)
 
 #### Contributors
 
 - [gpchn](https://github.com/gpchn/) Developer
   
-  ![profile](.\assets\image\gpchn.jpg)
+  ![profile](./assets/image/gpchn.jpg)
 
 #### Connect us
 
