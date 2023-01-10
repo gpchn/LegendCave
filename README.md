@@ -26,7 +26,7 @@ embed_amd32 和 embed_amd64 版本请运行文件夹内 click_to_run.bat 文件
 
 - [gpchn](https://github.com/gpchn/) 代码编写
   
-  ![头像](.\assets\image\gpchn.png)
+  ![头像](.\assets\image\gpchn.jpg)
 
 #### 联系方式
 

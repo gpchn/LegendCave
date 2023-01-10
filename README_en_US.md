@@ -25,7 +25,7 @@ For embed_ amd32 and embed_amd32 versions, please run the click_to_run.bat file 
 
 - [gpchn](https://github.com/gpchn/) Developer
   
-  ![profile](.\assets\image\gpchn.png)
+  ![profile](.\assets\image\gpchn.jpg)
 
 #### Connect us
 
