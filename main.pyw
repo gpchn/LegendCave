@@ -6,6 +6,7 @@ def main():
     # 导入第三方库
     import pygame
     import pygame.locals
+    from pathlib import Path
     from sys import exit
 
     # 硬件初始化
@@ -24,7 +25,12 @@ def main():
     # 设置窗口标题
     pygame.display.set_caption("Legend Cave")
     # 导入字体类型
-    f = pygame.font.Font("C:/Windows/Fonts/simhei.ttf", 30)
+    f = pygame.font.Font(Path("C:/Windows/Fonts/simhei.ttf"), 30)
+
+    # 导入图片
+    img = pygame.image.load(Path("./assets/image/logo.ico"))
+    # 设置窗口图标
+    pygame.display.set_icon(img)
 
     # 主循环
     while True:

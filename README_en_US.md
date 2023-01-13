@@ -2,7 +2,7 @@
 
 # Legend Cave
 
-![game logo](./assets/image/logo.png)
+![game logo](./assets/image/logo.jpg)
 
 ## Introduction
 

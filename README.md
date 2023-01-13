@@ -2,7 +2,7 @@
 
 # Legend Cave
 
-![游戏 logo](./assets/image/logo.png)
+![游戏 logo](./assets/image/logo.jpg)
 
 ## 项目介绍
 
