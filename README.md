@@ -1,6 +1,7 @@
 简体中文 | [English (United States)](README_en_US.md)
 
 # Legend Cave
+[![Security Status](https://s.murphysec.com/badge/gpchn/LegendCave.svg)](https://www.murphysec.com/p/gpchn/LegendCave)
 
 ![游戏 logo](./assets/image/logo.jpg)
 
