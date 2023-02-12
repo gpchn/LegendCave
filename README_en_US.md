@@ -2,6 +2,8 @@
 
 # Legend Cave
 
+[![Security Status](https://s.murphysec.com/badge/gpchn/LegendCave.svg)](https://www.murphysec.com/p/gpchn/LegendCave)
+
 ![game logo](./assets/image/logo.jpg)
 
 ## Introduction
